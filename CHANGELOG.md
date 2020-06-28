@@ -1,3 +1,6 @@
+# TBD
+* Bumped Gecko startup timeout from 30s -> 90s
+
 # 0.3.0
 * Removed startPortRange and endPortRange CLI args
 * Declare timeouts for tests
