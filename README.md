@@ -1,3 +1,5 @@
+# DEPRECATION WARNING: This repo has been replaced by [the Avalanche one!](https://github.com/ava-labs/avalanche-e2e-tests)
+
 Ava End-to-End Tests
 ====================
 This repo contains end-to-end tests for the Ava network and Gecko client using [the Kurtosis testing framework](https://github.com/kurtosis-tech/kurtosis)
